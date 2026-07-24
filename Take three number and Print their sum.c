@@ -13,7 +13,7 @@ int main() {
     scanf("%d",&num3);
 
 
-    sum=num1+num2=num3;
+    sum=num1+num2+num3;
 
     printf("Sum=%d\n",sum);
 
