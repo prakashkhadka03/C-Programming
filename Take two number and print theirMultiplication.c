@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int num1, num2, num3, Product;
+    int num1, num2, Product;
 
     printf("Enter the first number:");
     scanf("%d",&num1);
@@ -9,9 +9,9 @@ int main() {
     printf("Enter the Second number:");
     scanf("%d",&num2);
 
-    Priduct=num1*num2
+    Priduct= num1 * num2;
 
-    printf("Product=%d\n",product);
+    printf("Product=%d\n",Product);
 
     return 0;
 }

@@ -5,7 +5,7 @@ int main() {
     scanf("%d%d",&a,&b);
 
     if(a>b) {
-        Printf("Largest numberis :%d",a);
+        printf("Largest numberis :%d",a);
     }
 
     else if(b>a) {

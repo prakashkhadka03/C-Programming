@@ -9,7 +9,7 @@ int main() {
     printf("Enter the Second number:");
     scanf("%d",&num2);
 
-    differnce=num1-num2;
+    difference= num1- num2;
 
     printf("Difference=%d\n",difference);
 

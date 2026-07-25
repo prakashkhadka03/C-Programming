@@ -12,7 +12,6 @@ int main() {
     printf("Enter the third number:");
     scanf("%d",&num3);
 
-
     difference=num1-num2-num3;
 
     printf("difference=%d\n",difference);

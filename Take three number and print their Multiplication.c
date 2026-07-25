@@ -12,8 +12,7 @@ int main() {
     printf("Enter the third number:");
     scanf("%d",&num3);
 
-
-    Product=num1*num2*num3;
+    product=num1*num2*num3;
 
     printf("Product=%d\n",product);
 
